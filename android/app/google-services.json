@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939769848588",
+    "firebase_url": "https://news-food.firebaseio.com",
+    "project_id": "news-food",
+    "storage_bucket": "news-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939769848588:android:81e60024d6f337a50f1f29",
+        "android_client_info": {
+          "package_name": "io.news.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939769848588-l4mkp5pato5n5kviej1embgjjrd9bijb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9T7htFq9R8bk1raS2ofSD6UcKBNp5Uuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939769848588-l4mkp5pato5n5kviej1embgjjrd9bijb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
