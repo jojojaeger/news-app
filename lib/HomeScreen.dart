@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
             category),
         headers: {
           "Accept": "application/json",
-          "X-Api-Key": "53f11f643a44417d9183398502185d7c"
+          "X-Api-Key": "insert key"
         });
 
     var localData = jsonDecode(response.body);
